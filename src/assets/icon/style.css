@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?jr1b3i');
+  src:  url('fonts/icomoon.eot?jr1b3i#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?jr1b3i') format('truetype'),
+    url('fonts/icomoon.woff?jr1b3i') format('woff'),
+    url('fonts/icomoon.svg?jr1b3i#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chs_cs_amplify:before {
+  content: "\e900";
+}
+.icon-chs_cs_charts:before {
+  content: "\e901";
+}
+.icon-chs_cs_event:before {
+  content: "\e902";
+}
+.icon-chs_cs_gz:before {
+  content: "\e903";
+}
+.icon-chs_cs_hg:before {
+  content: "\e904";
+}
+.icon-chs_cs_home:before {
+  content: "\e905";
+}
+.icon-chs_cs_love:before {
+  content: "\e906";
+}
+.icon-chs_cs_share:before {
+  content: "\e907";
+}
+.icon-chs_cs_sj:before {
+  content: "\e908";
+}
+.icon-chs_cs_zhuti:before {
+  content: "\e909";
+}
